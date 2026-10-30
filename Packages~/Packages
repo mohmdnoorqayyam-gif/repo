@@ -5,7 +5,7 @@ Maintainer: Awn <awn@samaamman.jo>
 Depends: firmware (>= 5.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.awnaltaha.sisshop_1.0_iphoneos-arm.deb
-Size: 2861
+Size: 2932736
 Description: Standalone SIS Shop application for iOS 5.0 and newer.
 Name: SIS Shop
 Author: Awn altaha
