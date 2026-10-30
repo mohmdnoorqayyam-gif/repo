@@ -1,0 +1,24 @@
+<package>
+	<id>com.awnaltaha.sisshop</id>
+	<name>SIS Shop</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0</miniOS>
+			<maxiOS>6.1.6</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>veteris but modified</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
